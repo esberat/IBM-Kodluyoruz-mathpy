@@ -27,3 +27,8 @@ Minimum Mesafenin Bulunması:
 
 
 Not: Eğer daha zorlayıcı bir görevlendirme istiyorsanız herhangi bir kütüphane ve modül kullanmadan da yapabilrsiniz.
+
+Çıkan sonuç:
+
+![image](https://github.com/esberat/mathpy/assets/29388782/1f885194-7664-4287-b557-8d4ebe03772d)
+
