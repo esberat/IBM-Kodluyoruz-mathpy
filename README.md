@@ -1,6 +1,6 @@
 ![image](https://github.com/esberat/mathpy/assets/29388782/b6c979c0-e837-49a8-b377-450c4f731780)
 
-Resimdeki formül:
+Resimdeki formül: (IBM-Kodluyoruz Cyberstart)
 d = √(x₂-x₁)²+(y₂-y₁)²
 
 Öklid mesafesi, Öklid uzayındaki iki nokta arasındaki "sıradan" düz çizgi mesafesidir. Bu formül ile, düzlemde veya üç boyutlu uzayda iki nokta arasındaki mesafeyi bulabilirsiniz.
@@ -25,8 +25,6 @@ Minimum Mesafenin Bulunması:
 
 ‘distances’ listesinden minimum mesafeyi bulun ve yazdırın.
 
-
-Not: Eğer daha zorlayıcı bir görevlendirme istiyorsanız herhangi bir kütüphane ve modül kullanmadan da yapabilrsiniz.
 
 Çıkan sonuç:
 
